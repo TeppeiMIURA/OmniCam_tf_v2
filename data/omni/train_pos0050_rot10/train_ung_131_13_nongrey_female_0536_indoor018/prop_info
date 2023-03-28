@@ -1,0 +1,8 @@
+[PROP_INFO]
+action = ung_131_13
+texture = textures/female/nongrey_female_0536.jpg
+background = backgrounds/indoor/indoor018.jpg
+body_shape = [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+sh_coeff = [ 0.55472081 -0.06091058 -0.02921667 -0.09697818  0.41882975 -0.45947488
+ -0.47199749  0.55765251 -0.48389601]
+fps = 10

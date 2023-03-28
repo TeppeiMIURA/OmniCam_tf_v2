@@ -1,0 +1,8 @@
+[PROP_INFO]
+action = 02_03
+texture = textures/female/grey_female_0600.jpg
+background = backgrounds/outdoor/outdoor021.jpg
+body_shape = [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+sh_coeff = [ 1.09479336 -0.61296797 -0.0833718   0.40911882  0.66075532 -0.23729216
+  0.20259836 -0.64847902 -0.58933555]
+fps = 10

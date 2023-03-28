@@ -1,0 +1,8 @@
+[PROP_INFO]
+action = 106_18
+texture = textures/male/nongrey_male_0712.jpg
+background = backgrounds/indoor/indoor045.jpg
+body_shape = [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+sh_coeff = [ 0.55584703 -0.67045666  0.32310325 -0.1820583  -0.19327779 -0.39066391
+  0.16038366 -0.32134513 -0.35266285]
+fps = 10

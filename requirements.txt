@@ -1,0 +1,11 @@
+# EasyDict==1.7
+# opencv-python
+# shapely==1.6.4
+# Cython
+# scipy
+# pandas
+# pyyaml
+# scikit-image
+# tensorboardX>=1.6
+yacs
+json_tricks

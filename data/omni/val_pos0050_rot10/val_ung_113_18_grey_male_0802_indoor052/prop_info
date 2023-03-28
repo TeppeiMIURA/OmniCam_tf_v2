@@ -1,0 +1,8 @@
+[PROP_INFO]
+action = ung_113_18
+texture = textures/male/grey_male_0802.jpg
+background = backgrounds/indoor/indoor052.jpg
+body_shape = [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+sh_coeff = [ 1.14235698 -0.4822698  -0.10678585  0.0309256  -0.10158377 -0.07157382
+ -0.06130222 -0.33565204 -0.66660759]
+fps = 10

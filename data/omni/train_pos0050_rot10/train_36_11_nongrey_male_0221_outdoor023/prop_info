@@ -1,0 +1,8 @@
+[PROP_INFO]
+action = 36_11
+texture = textures/male/nongrey_male_0221.jpg
+background = backgrounds/outdoor/outdoor023.jpg
+body_shape = [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+sh_coeff = [ 1.27732331 -0.15504052  0.08037883 -0.29105461 -0.63500242  0.27688874
+ -0.01392314 -0.18925373 -0.16782616]
+fps = 10

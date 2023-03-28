@@ -1,0 +1,8 @@
+[PROP_INFO]
+action = ung_111_40
+texture = textures/male/grey_male_0060.jpg
+background = backgrounds/outdoor/outdoor018.jpg
+body_shape = [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+sh_coeff = [ 1.03923456 -0.60951778 -0.49673327  0.2729942   0.46721387  0.60324447
+ -0.42516205 -0.20467221 -0.50732417]
+fps = 10

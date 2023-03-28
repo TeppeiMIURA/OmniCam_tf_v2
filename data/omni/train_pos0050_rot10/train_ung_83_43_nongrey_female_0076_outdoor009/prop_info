@@ -1,0 +1,8 @@
+[PROP_INFO]
+action = ung_83_43
+texture = textures/female/nongrey_female_0076.jpg
+background = backgrounds/outdoor/outdoor009.jpg
+body_shape = [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+sh_coeff = [ 1.336171   -0.2111308  -0.26511471 -0.49209165  0.24901864  0.07106406
+ -0.38991902  0.63301438 -0.59181065]
+fps = 10
